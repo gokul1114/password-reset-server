@@ -8,7 +8,6 @@ import  SendGridTransport  from "nodemailer-sendgrid-transport";
 import jwt from "jsonwebtoken";
 import cors from "cors"
 
-//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
 
 export const app = express();
 dotenv.config()
